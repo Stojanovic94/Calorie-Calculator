@@ -1,0 +1,17 @@
+C:\Users\Nikola\Desktop\Za github\Projekat 3\WinFormsApp11\bin\Debug\net5.0-windows\Calorie Calculator.exe
+C:\Users\Nikola\Desktop\Za github\Projekat 3\WinFormsApp11\bin\Debug\net5.0-windows\Calorie Calculator.deps.json
+C:\Users\Nikola\Desktop\Za github\Projekat 3\WinFormsApp11\bin\Debug\net5.0-windows\Calorie Calculator.runtimeconfig.json
+C:\Users\Nikola\Desktop\Za github\Projekat 3\WinFormsApp11\bin\Debug\net5.0-windows\Calorie Calculator.runtimeconfig.dev.json
+C:\Users\Nikola\Desktop\Za github\Projekat 3\WinFormsApp11\bin\Debug\net5.0-windows\Calorie Calculator.dll
+C:\Users\Nikola\Desktop\Za github\Projekat 3\WinFormsApp11\bin\Debug\net5.0-windows\Calorie Calculator.pdb
+C:\Users\Nikola\Desktop\Za github\Projekat 3\WinFormsApp11\obj\Debug\net5.0-windows\WinFormsApp11.Form1.resources
+C:\Users\Nikola\Desktop\Za github\Projekat 3\WinFormsApp11\obj\Debug\net5.0-windows\Calorie Calculator.csproj.GenerateResource.cache
+C:\Users\Nikola\Desktop\Za github\Projekat 3\WinFormsApp11\obj\Debug\net5.0-windows\Calorie Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikola\Desktop\Za github\Projekat 3\WinFormsApp11\obj\Debug\net5.0-windows\Calorie Calculator.AssemblyInfoInputs.cache
+C:\Users\Nikola\Desktop\Za github\Projekat 3\WinFormsApp11\obj\Debug\net5.0-windows\Calorie Calculator.AssemblyInfo.cs
+C:\Users\Nikola\Desktop\Za github\Projekat 3\WinFormsApp11\obj\Debug\net5.0-windows\Calorie Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\Desktop\Za github\Projekat 3\WinFormsApp11\obj\Debug\net5.0-windows\Calorie Calculator.dll
+C:\Users\Nikola\Desktop\Za github\Projekat 3\WinFormsApp11\obj\Debug\net5.0-windows\refint\Calorie Calculator.dll
+C:\Users\Nikola\Desktop\Za github\Projekat 3\WinFormsApp11\obj\Debug\net5.0-windows\Calorie Calculator.pdb
+C:\Users\Nikola\Desktop\Za github\Projekat 3\WinFormsApp11\obj\Debug\net5.0-windows\Calorie Calculator.genruntimeconfig.cache
+C:\Users\Nikola\Desktop\Za github\Projekat 3\WinFormsApp11\obj\Debug\net5.0-windows\ref\Calorie Calculator.dll
